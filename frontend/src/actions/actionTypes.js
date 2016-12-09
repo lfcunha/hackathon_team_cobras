@@ -1,0 +1,59 @@
+/**
+ * Created by luiscunha on 3/28/16.
+ */
+
+/*
+* Look at this module to replace the constants file
+* https://www.npmjs.com/package/react-constant
+ */
+export const ADD_SAMPLE = 'ADD_SAMPLE';
+export const REMOVE_SAMPLE = 'REMOVE_SAMPLE';
+export const TOGGLE_TODO = 'TOGGLE_TODO';
+export const DPCCSAMPLES_REQUEST = 'DPCCSAMPLES_REQUEST';
+export const DPCCSAMPLES_SUCCESS = 'DPCCSAMPLES_SUCCESS';
+export const DPCCSAMPLES_FAILURE = 'DPCCSAMPLES_FAILURE';
+export const CREATE_REVIEW_TABLE_STORE = "CREATE_REVIEW_TABLE_STORE";
+export const ADD_ATTRIBUTE = "ADD_ATTRIBUTE";
+export const ADD_EXTRACT = "ADD_EXTRACT";
+export const ADD_USER_DETAILS = "ADD_USER_DETAILS";
+export const ADD_USER = "ADD_USER";
+export const TOGGLE_SAMPLES = "TOGGLE_SAMPLES";
+export const RESET_JOBS_LIST = "RESET_JOBS_LIST";
+export const FSE_REQUEST = "FSE_REQUEST";
+export const FSE_FAILURE = "FSE_FAILURE";
+export const FSE_SUCCESS = "FSE_SUCCESS";
+export const FSE_CHOICE = "FSE_CHOICE";
+export const CONFIRM_FSE_CHOICE = "CONFIRM_FSE_CHOICE";
+export const SET_PAGE = "SET_PAGE";
+export const CONFIRM_REQUEST_CHOICE = "CONFIRM_REQUEST_CHOICE";
+export const DO_NOTHING = "DO_NOTHING";
+export const SAVE_REQUEST_ID = "SAVE_REQUEST_ID";
+export const ADD_EXTRACT_REQUEST = "ADD_EXTRACT_REQUEST";
+export const ADD_EXTRACT_SUCCESS = "ADD_EXTRACT_SUCCESS";
+export const ADD_EXTRACT_FAILURE = "ADD_EXTRACT_FAILURE";
+export const EDIT_STATUS = "EDIT_STATUS";
+export const EDITING_STATUS = "EDITING_STATUS";
+export const SET_STATUS = "SET_STATUS";
+export const FACILITY_REQUEST = "FACILITY_REQUEST";
+export const FACILITY_SUCCESS = "FACILITY_SUCCESS";
+export const FACILITY_FAILURE = "FACILITY_FAILURE";
+export const EDITING_FACILITY = "EDITING_FACILITY";
+export const SET_FACILITY = "SET_FACILITY";
+export const SET_MY_FACILITY = "SET_MY_FACILITY";
+export const TOGGLE_PROPAGATION = "TOGGLE_PROPAGATION";
+export const SET_INSTRUMENT = "SET_INSTRUMENT";
+export const SET_CAPACITY = "SET_CAPACITY";
+export const SHIP_AND_SAVE_FAILURE = "SHIP_AND_SAVE_FAILURE";
+export const SET_FILTER_SEARCH = "SET_FILTER_SEARCH";
+export const SET_FILTER_EXTRACTS = "SET_FILTER_EXTRACTS";
+export const SET_EXTRACTS_CHECKED = "SET_EXTRACTS_CHECKED";
+export const SORT_EXTRACTS = "SORT_EXTRACTS";
+export const SET_EXPORT_COUNT = "SET_EXPORT_COUNT";
+
+
+
+
+
+
+
+
