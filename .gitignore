@@ -1,5 +1,4 @@
 #npm
-#frontent/node_modules/*
 frontend/node_modules__/*
 
 # Byte-compiled / optimized / DLL files
