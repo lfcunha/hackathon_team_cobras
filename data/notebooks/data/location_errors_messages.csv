@@ -1,0 +1,846 @@
+Line: 50 saved: 16 n_req: 23
+Line: 100 saved: 44 n_req: 42
+Line: 150 saved: 44 n_req: 42
+Line: 200 saved: 105 n_req: 62
+Line: 250 saved: 142 n_req: 79
+Line: 300 saved: 159 n_req: 92
+Line: 350 saved: 159 n_req: 92
+Error. Line: 376 Message3: invalid literal for int() with base 10: '3333\xa0B'
+Line: 400 saved: 159 n_req: 92
+Error. Line: 444 Message3: invalid literal for int() with base 10: '3333D'
+Line: 450 saved: 159 n_req: 92
+Line: 500 saved: 159 n_req: 92
+Line: 550 saved: 159 n_req: 92
+Line: 600 saved: 159 n_req: 92
+Line: 650 saved: 159 n_req: 92
+Line: 700 saved: 159 n_req: 92
+Line: 750 saved: 159 n_req: 92
+Line: 800 saved: 159 n_req: 92
+Line: 850 saved: 159 n_req: 92
+Line: 900 saved: 159 n_req: 92
+Error. Line: 920 Message3: invalid literal for int() with base 10: '3333\xa0D'
+Line: 950 saved: 159 n_req: 92
+Error. Line: 993 Message3: invalid literal for int() with base 10: '3333B'
+Line: 1000 saved: 159 n_req: 92
+Error. Line: 1005 Message3: invalid literal for int() with base 10: '3333E'
+Line: 1050 saved: 159 n_req: 92
+Line: 1100 saved: 159 n_req: 92
+Line: 1150 saved: 159 n_req: 92
+Line: 1200 saved: 910 n_req: 285
+Line: 1250 saved: 910 n_req: 288
+Line: 1300 saved: 983 n_req: 311
+Line: 1350 saved: 983 n_req: 311
+Line: 1400 saved: 1032 n_req: 355
+Line: 1450 saved: 1041 n_req: 379
+Error. Line: 1467 Message3: invalid literal for int() with base 10: '11.5'
+Error. Line: 1470 Message3: invalid literal for int() with base 10: '11\xa01/2'
+Line: 1500 saved: 1041 n_req: 379
+Line: 1550 saved: 1107 n_req: 410
+Line: 1600 saved: 1154 n_req: 432
+Line: 1650 saved: 1183 n_req: 443
+Line: 1700 saved: 1209 n_req: 460
+Line: 1750 saved: 1249 n_req: 484
+Line: 1800 saved: 1264 n_req: 490
+Line: 1850 saved: 1264 n_req: 490
+Line: 1900 saved: 1264 n_req: 490
+Line: 1950 saved: 1264 n_req: 490
+Line: 2000 saved: 1264 n_req: 490
+Line: 2050 saved: 1264 n_req: 490
+Line: 2100 saved: 1264 n_req: 490
+Line: 2150 saved: 1544 n_req: 591
+Line: 2200 saved: 1553 n_req: 595
+Line: 2250 saved: 1588 n_req: 628
+Line: 2300 saved: 1638 n_req: 655
+Error. Line: 2309 Message2: name 'e' is not defined
+Line: 2350 saved: 1654 n_req: 677
+Line: 2400 saved: 1697 n_req: 692
+Line: 2450 saved: 1718 n_req: 703
+Line: 2500 saved: 1761 n_req: 724
+Line: 2550 saved: 1787 n_req: 741
+Line: 2600 saved: 1809 n_req: 760
+Line: 2650 saved: 1841 n_req: 779
+Line: 2700 saved: 1893 n_req: 804
+Line: 2750 saved: 1900 n_req: 817
+Line: 2800 saved: 1900 n_req: 817
+Line: 2850 saved: 1982 n_req: 840
+Line: 2900 saved: 2029 n_req: 854
+Line: 2950 saved: 2069 n_req: 875
+Line: 3000 saved: 2103 n_req: 889
+Line: 3050 saved: 2136 n_req: 913
+Line: 3100 saved: 2145 n_req: 919
+Line: 3150 saved: 2173 n_req: 930
+Error. Line: 3170 Message3: invalid literal for int() with base 10: '71 1/2'
+Line: 3200 saved: 2218 n_req: 949
+Error. Line: 3226 Message3: invalid literal for int() with base 10: '7101/2'
+Line: 3250 saved: 2271 n_req: 966
+Line: 3300 saved: 2309 n_req: 988
+Error. Line: 3308 Message3: invalid literal for int() with base 10: '443FRONT'
+Line: 3350 saved: 2335 n_req: 1005
+Line: 3400 saved: 2369 n_req: 1019
+Line: 3450 saved: 2378 n_req: 1031
+Line: 3500 saved: 2378 n_req: 1031
+Line: 3550 saved: 2378 n_req: 1031
+Line: 3600 saved: 2378 n_req: 1031
+Line: 3650 saved: 2378 n_req: 1031
+Line: 3700 saved: 2378 n_req: 1031
+Line: 3750 saved: 2625 n_req: 1100
+Line: 3800 saved: 2625 n_req: 1100
+Line: 3850 saved: 2707 n_req: 1126
+Error. Line: 3886 Message3: invalid literal for int() with base 10: '971/2'
+Line: 3900 saved: 2707 n_req: 1126
+Line: 3950 saved: 2799 n_req: 1149
+Line: 4000 saved: 2801 n_req: 1155
+Line: 4050 saved: 2801 n_req: 1155
+Line: 4100 saved: 2916 n_req: 1181
+Line: 4150 saved: 2939 n_req: 1191
+Error. Line: 4172 Message3: invalid literal for int() with base 10: '37 1/2'
+Line: 4200 saved: 2977 n_req: 1201
+Line: 4250 saved: 2993 n_req: 1223
+Line: 4300 saved: 3030 n_req: 1247
+Line: 4350 saved: 3083 n_req: 1264
+Line: 4400 saved: 3097 n_req: 1268
+Line: 4450 saved: 3118 n_req: 1280
+Line: 4500 saved: 3186 n_req: 1303
+Line: 4550 saved: 3199 n_req: 1307
+Line: 4600 saved: 3247 n_req: 1327
+Error. Line: 4645 Message3: invalid literal for int() with base 10: '1555 B'
+Line: 4650 saved: 3247 n_req: 1327
+Line: 4700 saved: 3247 n_req: 1327
+Line: 4750 saved: 3247 n_req: 1327
+Line: 4800 saved: 3383 n_req: 1389
+Line: 4850 saved: 3417 n_req: 1402
+Error. Line: 4855 Message3: invalid literal for int() with base 10: '190A'
+Error. Line: 4866 Message3: invalid literal for int() with base 10: '190 A'
+Line: 4900 saved: 3479 n_req: 1415
+Line: 4950 saved: 3506 n_req: 1429
+Line: 5000 saved: 3530 n_req: 1464
+Line: 5050 saved: 3530 n_req: 1464
+Line: 5100 saved: 3570 n_req: 1488
+Line: 5150 saved: 3631 n_req: 1508
+Line: 5200 saved: 3671 n_req: 1519
+Error. Line: 5246 Message3: invalid literal for int() with base 10: '27A'
+Line: 5250 saved: 3701 n_req: 1533
+Line: 5300 saved: 3716 n_req: 1536
+Line: 5350 saved: 3757 n_req: 1554
+Line: 5400 saved: 3757 n_req: 1554
+Line: 5450 saved: 3839 n_req: 1589
+Line: 5500 saved: 3839 n_req: 1589
+Line: 5550 saved: 3923 n_req: 1612
+Line: 5600 saved: 3923 n_req: 1612
+Line: 5650 saved: 4001 n_req: 1630
+Error. Line: 5688 Message3: invalid literal for int() with base 10: '321A'
+Line: 5700 saved: 4011 n_req: 1640
+Line: 5750 saved: 4011 n_req: 1640
+Line: 5800 saved: 4124 n_req: 1668
+Line: 5850 saved: 4124 n_req: 1668
+Line: 5900 saved: 4156 n_req: 1687
+Line: 5950 saved: 4201 n_req: 1697
+Line: 6000 saved: 4237 n_req: 1713
+Line: 6050 saved: 4305 n_req: 1733
+Line: 6100 saved: 4309 n_req: 1751
+Error. Line: 6106 Message3: invalid literal for int() with base 10: 'Z20'
+Line: 6150 saved: 4327 n_req: 1767
+Line: 6200 saved: 4368 n_req: 1797
+Line: 6250 saved: 4406 n_req: 1810
+Error. Line: 6273 Message3: invalid literal for int() with base 10: '406F'
+Line: 6300 saved: 4465 n_req: 1825
+Line: 6350 saved: 4478 n_req: 1830
+Line: 6400 saved: 4523 n_req: 1857
+Line: 6450 saved: 4551 n_req: 1885
+Line: 6500 saved: 4552 n_req: 1891
+Line: 6550 saved: 4552 n_req: 1891
+Line: 6600 saved: 4652 n_req: 1931
+Line: 6650 saved: 4662 n_req: 1938
+Error. Line: 6699 Message3: invalid literal for int() with base 10: '3501/2'
+Line: 6700 saved: 4724 n_req: 1960
+Error. Line: 6715 Message3: invalid literal for int() with base 10: '35A'
+Line: 6750 saved: 4751 n_req: 1975
+Line: 6800 saved: 4791 n_req: 1995
+Line: 6850 saved: 4817 n_req: 2010
+Error. Line: 6898 Message3: invalid literal for int() with base 10: '7 1/2'
+Line: 6900 saved: 4853 n_req: 2025
+Error. Line: 6914 Message3: invalid literal for int() with base 10: '7.5'
+Line: 6950 saved: 4870 n_req: 2032
+Line: 7000 saved: 4890 n_req: 2050
+Line: 7050 saved: 4953 n_req: 2069
+Line: 7100 saved: 4993 n_req: 2083
+Line: 7150 saved: 5034 n_req: 2102
+Line: 7200 saved: 5058 n_req: 2118
+Line: 7250 saved: 5083 n_req: 2135
+Line: 7300 saved: 5083 n_req: 2135
+Line: 7350 saved: 5175 n_req: 2159
+Line: 7400 saved: 5203 n_req: 2172
+Line: 7450 saved: 5203 n_req: 2172
+Line: 7500 saved: 5277 n_req: 2190
+Line: 7550 saved: 5311 n_req: 2203
+Line: 7600 saved: 5353 n_req: 2217
+Line: 7650 saved: 5368 n_req: 2230
+Line: 7700 saved: 5368 n_req: 2230
+Line: 7750 saved: 5450 n_req: 2268
+Line: 7800 saved: 5450 n_req: 2268
+Line: 7850 saved: 5550 n_req: 2284
+Line: 7900 saved: 5585 n_req: 2301
+Line: 7950 saved: 5603 n_req: 2313
+Line: 8000 saved: 5649 n_req: 2322
+Error. Line: 8035 Message2: name 'e' is not defined
+Line: 8050 saved: 5690 n_req: 2351
+Line: 8100 saved: 5716 n_req: 2377
+Line: 8150 saved: 5731 n_req: 2392
+Line: 8200 saved: 5777 n_req: 2417
+Line: 8250 saved: 5796 n_req: 2441
+Line: 8300 saved: 5844 n_req: 2454
+Line: 8350 saved: 5860 n_req: 2468
+Line: 8400 saved: 5890 n_req: 2499
+Line: 8450 saved: 5929 n_req: 2511
+Line: 8500 saved: 5929 n_req: 2511
+Line: 8550 saved: 5996 n_req: 2539
+Line: 8600 saved: 5996 n_req: 2539
+Line: 8650 saved: 6073 n_req: 2561
+Line: 8700 saved: 6097 n_req: 2575
+Line: 8750 saved: 6151 n_req: 2591
+Line: 8800 saved: 6151 n_req: 2591
+Line: 8850 saved: 6151 n_req: 2591
+Line: 8900 saved: 6216 n_req: 2663
+Line: 8950 saved: 6271 n_req: 2683
+Line: 9000 saved: 6271 n_req: 2683
+Line: 9050 saved: 6321 n_req: 2708
+Line: 9100 saved: 6370 n_req: 2722
+Line: 9150 saved: 6370 n_req: 2722
+Line: 9200 saved: 6446 n_req: 2748
+Error. Line: 9225 Message3: invalid literal for int() with base 10: '15#'
+Error. Line: 9236 Message3: invalid literal for int() with base 10: '47A'
+Line: 9250 saved: 6446 n_req: 2748
+Error. Line: 9255 Message3: invalid literal for int() with base 10: '127 REAR'
+Line: 9300 saved: 6521 n_req: 2773
+Line: 9350 saved: 6550 n_req: 2782
+Line: 9400 saved: 6550 n_req: 2782
+Line: 9450 saved: 6636 n_req: 2808
+Line: 9500 saved: 6667 n_req: 2819
+Line: 9550 saved: 6667 n_req: 2819
+Line: 9600 saved: 6667 n_req: 2819
+Line: 9650 saved: 6756 n_req: 2862
+Line: 9700 saved: 6795 n_req: 2889
+Line: 9750 saved: 6819 n_req: 2895
+Line: 9800 saved: 6819 n_req: 2895
+Error. Line: 9842 Message2: name 'e' is not defined
+Error. Line: 9843 Message2: name 'e' is not defined
+Line: 9850 saved: 6931 n_req: 2927
+Line: 9900 saved: 6968 n_req: 2942
+Line: 9950 saved: 7001 n_req: 2954
+Line: 10000 saved: 7001 n_req: 2954
+Line: 10050 saved: 7051 n_req: 2977
+Line: 10100 saved: 7094 n_req: 2991
+Line: 10150 saved: 7124 n_req: 3002
+Line: 10200 saved: 7192 n_req: 3019
+Line: 10250 saved: 7211 n_req: 3037
+Line: 10300 saved: 7258 n_req: 3050
+Line: 10350 saved: 7258 n_req: 3050
+Line: 10400 saved: 7325 n_req: 3086
+Line: 10450 saved: 7325 n_req: 3086
+Line: 10500 saved: 7398 n_req: 3106
+Line: 10550 saved: 7405 n_req: 3117
+Line: 10600 saved: 7469 n_req: 3141
+Line: 10650 saved: 7508 n_req: 3154
+Line: 10700 saved: 7508 n_req: 3154
+Line: 10750 saved: 7575 n_req: 3170
+Line: 10800 saved: 7596 n_req: 3202
+Line: 10850 saved: 7620 n_req: 3215
+Line: 10900 saved: 7620 n_req: 3215
+Line: 10950 saved: 7620 n_req: 3215
+Line: 11000 saved: 7620 n_req: 3215
+Error. Line: 11025 Message3: invalid literal for int() with base 10: '1266B'
+Line: 11050 saved: 7620 n_req: 3215
+Line: 11100 saved: 7620 n_req: 3215
+Line: 11150 saved: 7620 n_req: 3215
+Line: 11200 saved: 7620 n_req: 3215
+Line: 11250 saved: 7953 n_req: 3302
+Line: 11300 saved: 7953 n_req: 3302
+Line: 11350 saved: 7998 n_req: 3318
+Line: 11400 saved: 7998 n_req: 3318
+Line: 11450 saved: 7998 n_req: 3318
+Error. Line: 11459 Message3: invalid literal for int() with base 10: '165\xa0REAR'
+Line: 11500 saved: 7998 n_req: 3318
+Line: 11550 saved: 7998 n_req: 3318
+Line: 11600 saved: 7998 n_req: 3318
+Line: 11650 saved: 8245 n_req: 3411
+Line: 11700 saved: 8276 n_req: 3429
+Line: 11750 saved: 8276 n_req: 3429
+Line: 11800 saved: 8276 n_req: 3429
+Line: 11850 saved: 8276 n_req: 3429
+Line: 11900 saved: 8276 n_req: 3429
+Line: 11950 saved: 8276 n_req: 3429
+Line: 12000 saved: 8276 n_req: 3429
+Line: 12050 saved: 8276 n_req: 3429
+Line: 12100 saved: 8577 n_req: 3526
+Line: 12150 saved: 8577 n_req: 3526
+Line: 12200 saved: 8639 n_req: 3546
+Line: 12250 saved: 8639 n_req: 3546
+Line: 12300 saved: 8639 n_req: 3546
+Line: 12350 saved: 8764 n_req: 3585
+Line: 12400 saved: 8764 n_req: 3585
+Line: 12450 saved: 8764 n_req: 3585
+Line: 12500 saved: 8869 n_req: 3608
+Line: 12550 saved: 8928 n_req: 3631
+Line: 12600 saved: 8964 n_req: 3641
+Line: 12650 saved: 8964 n_req: 3641
+Line: 12700 saved: 9023 n_req: 3679
+Line: 12750 saved: 9055 n_req: 3695
+Line: 12800 saved: 9094 n_req: 3709
+Line: 12850 saved: 9096 n_req: 3719
+Line: 12900 saved: 9141 n_req: 3736
+Line: 12950 saved: 9203 n_req: 3756
+Line: 13000 saved: 9224 n_req: 3764
+Line: 13050 saved: 9224 n_req: 3764
+Error. Line: 13074 Message3: invalid literal for int() with base 10: '153D'
+Error. Line: 13079 Message3: invalid literal for int() with base 10: '153 D'
+Line: 13100 saved: 9305 n_req: 3797
+Error. Line: 13112 Message3: invalid literal for int() with base 10: '75A'
+Line: 13150 saved: 9325 n_req: 3807
+Line: 13200 saved: 9325 n_req: 3807
+Line: 13250 saved: 9367 n_req: 3871
+Line: 13300 saved: 9367 n_req: 3871
+Line: 13350 saved: 9453 n_req: 3897
+Line: 13400 saved: 9471 n_req: 3906
+Line: 13450 saved: 9499 n_req: 3925
+Line: 13500 saved: 9526 n_req: 3939
+Line: 13550 saved: 9582 n_req: 3956
+Line: 13600 saved: 9631 n_req: 3972
+Line: 13650 saved: 9655 n_req: 3982
+Line: 13700 saved: 9699 n_req: 4000
+Line: 13750 saved: 9737 n_req: 4021
+Line: 13800 saved: 9746 n_req: 4035
+Line: 13850 saved: 9746 n_req: 4035
+Line: 13900 saved: 9816 n_req: 4067
+Line: 13950 saved: 9816 n_req: 4067
+Line: 14000 saved: 9898 n_req: 4100
+Line: 14050 saved: 9921 n_req: 4129
+Line: 14100 saved: 9963 n_req: 4142
+Line: 14150 saved: 9963 n_req: 4142
+Line: 14200 saved: 10004 n_req: 4182
+Line: 14250 saved: 10047 n_req: 4197
+Error. Line: 14255 Message3: invalid literal for int() with base 10: 'PIER'
+Line: 14300 saved: 10058 n_req: 4210
+Error. Line: 14348 Message3: invalid literal for int() with base 10: '500A'
+Line: 14350 saved: 10058 n_req: 4210
+Line: 14400 saved: 10155 n_req: 4236
+Line: 14450 saved: 10155 n_req: 4236
+Line: 14500 saved: 10220 n_req: 4271
+Line: 14550 saved: 10236 n_req: 4300
+Line: 14600 saved: 10267 n_req: 4318
+Error. Line: 14642 Message3: invalid literal for int() with base 10: '218F'
+Line: 14650 saved: 10301 n_req: 4334
+Line: 14700 saved: 10339 n_req: 4353
+Line: 14750 saved: 10339 n_req: 4353
+Line: 14800 saved: 10430 n_req: 4373
+Line: 14850 saved: 10430 n_req: 4373
+Line: 14900 saved: 10502 n_req: 4387
+Line: 14950 saved: 10530 n_req: 4393
+Line: 15000 saved: 10530 n_req: 4393
+Line: 15050 saved: 10606 n_req: 4417
+Line: 15100 saved: 10643 n_req: 4432
+Error. Line: 15131 Message3: invalid literal for int() with base 10: '210 N'
+Line: 15150 saved: 10704 n_req: 4449
+Line: 15200 saved: 10710 n_req: 4456
+Line: 15250 saved: 10710 n_req: 4456
+Line: 15300 saved: 10710 n_req: 4456
+Line: 15350 saved: 10710 n_req: 4456
+Line: 15400 saved: 10710 n_req: 4456
+Line: 15450 saved: 10710 n_req: 4456
+Line: 15500 saved: 10710 n_req: 4456
+Line: 15550 saved: 10710 n_req: 4456
+Line: 15600 saved: 10710 n_req: 4456
+Line: 15650 saved: 11089 n_req: 4531
+Line: 15700 saved: 11137 n_req: 4560
+Line: 15750 saved: 11137 n_req: 4560
+Line: 15800 saved: 11189 n_req: 4577
+Line: 15850 saved: 11251 n_req: 4599
+Line: 15900 saved: 11284 n_req: 4612
+Line: 15950 saved: 11322 n_req: 4630
+Line: 16000 saved: 11353 n_req: 4646
+Line: 16050 saved: 11394 n_req: 4660
+Error. Line: 16065 Message3: invalid literal for int() with base 10: '149REAR'
+Line: 16100 saved: 11396 n_req: 4666
+Line: 16150 saved: 11450 n_req: 4686
+Line: 16200 saved: 11480 n_req: 4699
+Line: 16250 saved: 11480 n_req: 4699
+Line: 16300 saved: 11480 n_req: 4699
+Error. Line: 16347 Message3: invalid literal for int() with base 10: '216 REAR'
+Line: 16350 saved: 11571 n_req: 4762
+Line: 16400 saved: 11618 n_req: 4782
+Line: 16450 saved: 11652 n_req: 4795
+Line: 16500 saved: 11661 n_req: 4801
+Line: 16550 saved: 11661 n_req: 4801
+Line: 16600 saved: 11661 n_req: 4801
+Line: 16650 saved: 11661 n_req: 4801
+Error. Line: 16664 Message3: invalid literal for int() with base 10: '22 1/2'
+Line: 16700 saved: 11833 n_req: 4861
+Line: 16750 saved: 11849 n_req: 4875
+Line: 16800 saved: 11849 n_req: 4875
+Line: 16850 saved: 11954 n_req: 4896
+Line: 16900 saved: 11956 n_req: 4901
+Line: 16950 saved: 12011 n_req: 4928
+Line: 17000 saved: 12048 n_req: 4950
+Line: 17050 saved: 12073 n_req: 4964
+Line: 17100 saved: 12090 n_req: 4976
+Line: 17150 saved: 12124 n_req: 4994
+Line: 17200 saved: 12183 n_req: 5017
+Line: 17250 saved: 12189 n_req: 5019
+Line: 17300 saved: 12250 n_req: 5040
+Line: 17350 saved: 12282 n_req: 5063
+Line: 17400 saved: 12319 n_req: 5076
+Line: 17450 saved: 12353 n_req: 5097
+Line: 17500 saved: 12370 n_req: 5126
+Line: 17550 saved: 12397 n_req: 5141
+Line: 17600 saved: 12397 n_req: 5141
+Line: 17650 saved: 12452 n_req: 5163
+Line: 17700 saved: 12517 n_req: 5171
+Line: 17750 saved: 12517 n_req: 5171
+Line: 17800 saved: 12587 n_req: 5185
+Line: 17850 saved: 12587 n_req: 5185
+Line: 17900 saved: 12587 n_req: 5185
+Line: 17950 saved: 12587 n_req: 5185
+Line: 18000 saved: 12587 n_req: 5185
+Error. Line: 18039 Message3: invalid literal for int() with base 10: 'PIER062'
+Error. Line: 18046 Message3: invalid literal for int() with base 10: 'PIER059'
+Line: 18050 saved: 12804 n_req: 5232
+Error. Line: 18050 Message3: invalid literal for int() with base 10: '111 A'
+Error. Line: 18082 Message3: invalid literal for int() with base 10: '111A'
+Line: 18100 saved: 12839 n_req: 5257
+Line: 18150 saved: 12863 n_req: 5276
+Line: 18200 saved: 12896 n_req: 5294
+Line: 18250 saved: 12932 n_req: 5314
+Line: 18300 saved: 12964 n_req: 5329
+Line: 18350 saved: 12964 n_req: 5329
+Line: 18400 saved: 13017 n_req: 5348
+Line: 18450 saved: 13065 n_req: 5380
+Line: 18500 saved: 13065 n_req: 5380
+Line: 18550 saved: 13130 n_req: 5406
+Line: 18600 saved: 13150 n_req: 5414
+Error. Line: 18633 Message3: invalid literal for int() with base 10: '120F'
+Line: 18650 saved: 13177 n_req: 5431
+Line: 18700 saved: 13236 n_req: 5454
+Line: 18750 saved: 13281 n_req: 5463
+Line: 18800 saved: 13299 n_req: 5471
+Line: 18850 saved: 13314 n_req: 5491
+Line: 18900 saved: 13377 n_req: 5516
+Line: 18950 saved: 13377 n_req: 5522
+Line: 19000 saved: 13432 n_req: 5548
+Line: 19050 saved: 13460 n_req: 5561
+Line: 19100 saved: 13475 n_req: 5572
+Line: 19150 saved: 13532 n_req: 5597
+Line: 19200 saved: 13560 n_req: 5623
+Line: 19250 saved: 13560 n_req: 5623
+Line: 19300 saved: 13626 n_req: 5656
+Line: 19350 saved: 13657 n_req: 5668
+Line: 19400 saved: 13692 n_req: 5700
+Line: 19450 saved: 13715 n_req: 5716
+Line: 19500 saved: 13715 n_req: 5716
+Line: 19550 saved: 13788 n_req: 5745
+Line: 19600 saved: 13811 n_req: 5749
+Line: 19650 saved: 13811 n_req: 5749
+Line: 19700 saved: 13907 n_req: 5784
+Line: 19750 saved: 13909 n_req: 5795
+Error. Line: 19784 Message3: invalid literal for int() with base 10: '548.5'
+Line: 19800 saved: 13909 n_req: 5795
+Error. Line: 19812 Message3: invalid literal for int() with base 10: '615 1/2'
+Line: 19850 saved: 14014 n_req: 5823
+Line: 19900 saved: 14048 n_req: 5840
+Line: 19950 saved: 14048 n_req: 5840
+Line: 20000 saved: 14109 n_req: 5874
+Error. Line: 20030 Message3: invalid literal for int() with base 10: '255\xa0A'
+Line: 20050 saved: 14139 n_req: 5904
+Line: 20100 saved: 14168 n_req: 5922
+Line: 20150 saved: 14188 n_req: 5943
+Line: 20200 saved: 14205 n_req: 5951
+Line: 20250 saved: 14205 n_req: 5951
+Line: 20300 saved: 14205 n_req: 5951
+Line: 20350 saved: 14205 n_req: 5951
+Line: 20400 saved: 14205 n_req: 5951
+Line: 20450 saved: 14414 n_req: 6019
+Line: 20500 saved: 14436 n_req: 6035
+Line: 20550 saved: 14480 n_req: 6063
+Line: 20600 saved: 14480 n_req: 6065
+Line: 20650 saved: 14522 n_req: 6091
+Line: 20700 saved: 14522 n_req: 6091
+Line: 20750 saved: 14601 n_req: 6120
+Line: 20800 saved: 14601 n_req: 6120
+Line: 20850 saved: 14670 n_req: 6160
+Line: 20900 saved: 14714 n_req: 6178
+Line: 20950 saved: 14749 n_req: 6188
+Line: 21000 saved: 14765 n_req: 6198
+Line: 21050 saved: 14791 n_req: 6204
+Line: 21100 saved: 14836 n_req: 6222
+Line: 21150 saved: 14893 n_req: 6243
+Line: 21200 saved: 14900 n_req: 6252
+Line: 21250 saved: 14959 n_req: 6277
+Error. Line: 21272 Message3: invalid literal for int() with base 10: '442REAR'
+Line: 21300 saved: 14959 n_req: 6277
+Line: 21350 saved: 15030 n_req: 6297
+Line: 21400 saved: 15061 n_req: 6314
+Line: 21450 saved: 15108 n_req: 6334
+Line: 21500 saved: 15116 n_req: 6346
+Line: 21550 saved: 15154 n_req: 6363
+Line: 21600 saved: 15192 n_req: 6393
+Line: 21650 saved: 15192 n_req: 6393
+Line: 21700 saved: 15192 n_req: 6393
+Line: 21750 saved: 15192 n_req: 6393
+Line: 21800 saved: 15192 n_req: 6393
+Line: 21850 saved: 15192 n_req: 6393
+Line: 21900 saved: 15192 n_req: 6393
+Line: 21950 saved: 15456 n_req: 6476
+Line: 22000 saved: 15479 n_req: 6493
+Line: 22050 saved: 15521 n_req: 6514
+Line: 22100 saved: 15544 n_req: 6527
+Line: 22150 saved: 15580 n_req: 6538
+Line: 22200 saved: 15580 n_req: 6538
+Line: 22250 saved: 15651 n_req: 6558
+Line: 22300 saved: 15706 n_req: 6574
+Line: 22350 saved: 15744 n_req: 6587
+Line: 22400 saved: 15777 n_req: 6600
+Line: 22450 saved: 15816 n_req: 6624
+Line: 22500 saved: 15816 n_req: 6624
+Line: 22550 saved: 15889 n_req: 6643
+Line: 22600 saved: 15906 n_req: 6658
+Line: 22650 saved: 15948 n_req: 6681
+Line: 22700 saved: 15971 n_req: 6689
+Line: 22750 saved: 15998 n_req: 6700
+Error. Line: 22753 Message3: invalid literal for int() with base 10: '1390 1/2'
+Error. Line: 22778 Message3: invalid literal for int() with base 10: '1A'
+Line: 22800 saved: 16020 n_req: 6748
+Line: 22850 saved: 16066 n_req: 6768
+Line: 22900 saved: 16066 n_req: 6768
+Line: 22950 saved: 16127 n_req: 6788
+Line: 23000 saved: 16180 n_req: 6807
+Line: 23050 saved: 16180 n_req: 6807
+Line: 23100 saved: 16247 n_req: 6830
+Line: 23150 saved: 16280 n_req: 6859
+Line: 23200 saved: 16280 n_req: 6859
+Error. Line: 23235 Message2: name 'e' is not defined
+Line: 23250 saved: 16314 n_req: 6921
+Line: 23300 saved: 16323 n_req: 6927
+Error. Line: 23319 Message3: invalid literal for int() with base 10: '460H'
+Line: 23350 saved: 16323 n_req: 6927
+Line: 23400 saved: 16412 n_req: 6943
+Line: 23450 saved: 16448 n_req: 6957
+Line: 23500 saved: 16513 n_req: 6972
+Line: 23550 saved: 16527 n_req: 6987
+Line: 23600 saved: 16527 n_req: 6987
+Line: 23650 saved: 16600 n_req: 7016
+Line: 23700 saved: 16647 n_req: 7031
+Line: 23750 saved: 16690 n_req: 7048
+Error. Line: 23760 Message3: invalid literal for int() with base 10: '515 1/2'
+Line: 23800 saved: 16713 n_req: 7063
+Line: 23850 saved: 16756 n_req: 7079
+Line: 23900 saved: 16764 n_req: 7091
+Error. Line: 23919 Message3: invalid literal for int() with base 10: '78REAR'
+Line: 23950 saved: 16820 n_req: 7105
+Error. Line: 23965 Message3: invalid literal for int() with base 10: '500 A'
+Error. Line: 23999 Message3: invalid literal for int() with base 10: '500A'
+Line: 24000 saved: 16820 n_req: 7105
+Line: 24050 saved: 16881 n_req: 7133
+Line: 24100 saved: 16914 n_req: 7156
+Error. Line: 24128 Message3: invalid literal for int() with base 10: '168.5'
+Line: 24150 saved: 16937 n_req: 7171
+Line: 24200 saved: 16972 n_req: 7204
+Line: 24250 saved: 16993 n_req: 7214
+Line: 24300 saved: 16993 n_req: 7214
+Line: 24350 saved: 17079 n_req: 7239
+Line: 24400 saved: 17096 n_req: 7247
+Line: 24450 saved: 17160 n_req: 7269
+Line: 24500 saved: 17174 n_req: 7279
+Line: 24550 saved: 17205 n_req: 7298
+Error. Line: 24558 Message3: invalid literal for int() with base 10: '233FRONT'
+Line: 24600 saved: 17263 n_req: 7316
+Line: 24650 saved: 17263 n_req: 7316
+Line: 24700 saved: 17328 n_req: 7333
+Line: 24750 saved: 17376 n_req: 7347
+Line: 24800 saved: 17376 n_req: 7347
+Line: 24850 saved: 17450 n_req: 7377
+Error. Line: 24888 Message3: invalid literal for int() with base 10: '221AIR'
+Line: 24900 saved: 17450 n_req: 7377
+Line: 24950 saved: 17519 n_req: 7398
+Line: 25000 saved: 17539 n_req: 7409
+Line: 25050 saved: 17594 n_req: 7438
+Line: 25100 saved: 17623 n_req: 7450
+Line: 25150 saved: 17654 n_req: 7465
+Line: 25200 saved: 17662 n_req: 7472
+Line: 25250 saved: 17706 n_req: 7500
+Line: 25300 saved: 17757 n_req: 7525
+Line: 25350 saved: 17760 n_req: 7534
+Line: 25400 saved: 17760 n_req: 7534
+Line: 25450 saved: 17760 n_req: 7534
+Line: 25500 saved: 17760 n_req: 7534
+Line: 25550 saved: 17760 n_req: 7534
+Line: 25600 saved: 17760 n_req: 7534
+Line: 25650 saved: 17986 n_req: 7619
+Line: 25700 saved: 17986 n_req: 7619
+Line: 25750 saved: 18055 n_req: 7639
+Line: 25800 saved: 18121 n_req: 7660
+Line: 25850 saved: 18121 n_req: 7660
+Error. Line: 25864 Message3: invalid literal for int() with base 10: '11 1/2'
+Line: 25900 saved: 18186 n_req: 7689
+Line: 25950 saved: 18226 n_req: 7699
+Line: 26000 saved: 18226 n_req: 7699
+Line: 26050 saved: 18278 n_req: 7726
+Error. Line: 26056 Message3: invalid literal for int() with base 10: '226\xa0REAR'
+Line: 26100 saved: 18338 n_req: 7742
+Line: 26150 saved: 18338 n_req: 7742
+Line: 26200 saved: 18376 n_req: 7766
+Line: 26250 saved: 18416 n_req: 7779
+Error. Line: 26256 Message3: invalid literal for int() with base 10: '158.5'
+Error. Line: 26279 Message3: invalid literal for int() with base 10: '158 1/2'
+Error. Line: 26281 Message2: name 'e' is not defined
+Line: 26300 saved: 18465 n_req: 7796
+Error. Line: 26315 Message3: invalid literal for int() with base 10: '132 A'
+Line: 26350 saved: 18465 n_req: 7796
+Line: 26400 saved: 18541 n_req: 7830
+Line: 26450 saved: 18570 n_req: 7853
+Line: 26500 saved: 18593 n_req: 7879
+Line: 26550 saved: 18633 n_req: 7891
+Error. Line: 26569 Message3: invalid literal for int() with base 10: '521B'
+Line: 26600 saved: 18633 n_req: 7891
+Line: 26650 saved: 18695 n_req: 7925
+Line: 26700 saved: 18719 n_req: 7953
+Line: 26750 saved: 18755 n_req: 7960
+Line: 26800 saved: 18755 n_req: 7960
+Line: 26850 saved: 18823 n_req: 7985
+Line: 26900 saved: 18863 n_req: 8001
+Line: 26950 saved: 18873 n_req: 8015
+Line: 27000 saved: 18873 n_req: 8015
+Line: 27050 saved: 18873 n_req: 8015
+Line: 27100 saved: 18873 n_req: 8015
+Line: 27150 saved: 19010 n_req: 8077
+Error. Line: 27190 Message3: invalid literal for int() with base 10: '3401/2'
+Error. Line: 27196 Message3: invalid literal for int() with base 10: '00003401/2'
+Line: 27200 saved: 19062 n_req: 8101
+Line: 27250 saved: 19062 n_req: 8101
+Error. Line: 27274 Message3: invalid literal for int() with base 10: '34 1/2'
+Line: 27300 saved: 19129 n_req: 8122
+Line: 27350 saved: 19142 n_req: 8137
+Line: 27400 saved: 19180 n_req: 8158
+Line: 27450 saved: 19237 n_req: 8185
+Line: 27500 saved: 19237 n_req: 8185
+Line: 27550 saved: 19314 n_req: 8209
+Line: 27600 saved: 19333 n_req: 8237
+Line: 27650 saved: 19335 n_req: 8241
+Line: 27700 saved: 19399 n_req: 8263
+Line: 27750 saved: 19427 n_req: 8282
+Line: 27800 saved: 19442 n_req: 8287
+Line: 27850 saved: 19493 n_req: 8316
+Line: 27900 saved: 19534 n_req: 8329
+Error. Line: 27925 Message3: invalid literal for int() with base 10: '249A'
+Line: 27950 saved: 19546 n_req: 8335
+Line: 28000 saved: 19546 n_req: 8335
+Error. Line: 28038 Message3: invalid literal for int() with base 10: '420AIR'
+Line: 28050 saved: 19546 n_req: 8335
+Line: 28100 saved: 19546 n_req: 8335
+Line: 28150 saved: 19546 n_req: 8335
+Error. Line: 28186 Message3: invalid literal for int() with base 10: '420 AIR'
+Error. Line: 28191 Message3: invalid literal for int() with base 10: '420\xa0AIR'
+Line: 28200 saved: 19546 n_req: 8335
+Line: 28250 saved: 19775 n_req: 8413
+Error. Line: 28268 Message3: invalid literal for int() with base 10: '500 1/2'
+Line: 28300 saved: 19775 n_req: 8413
+Line: 28350 saved: 19840 n_req: 8431
+Line: 28400 saved: 19893 n_req: 8449
+Line: 28450 saved: 19951 n_req: 8466
+Line: 28500 saved: 19974 n_req: 8490
+Line: 28550 saved: 19981 n_req: 8500
+Line: 28600 saved: 20040 n_req: 8517
+Line: 28650 saved: 20053 n_req: 8530
+Line: 28700 saved: 20092 n_req: 8547
+Line: 28750 saved: 20092 n_req: 8547
+Line: 28800 saved: 20092 n_req: 8547
+Error. Line: 28810 Message3: invalid literal for int() with base 10: '2238A'
+Line: 28850 saved: 20092 n_req: 8547
+Line: 28900 saved: 20092 n_req: 8547
+Line: 28950 saved: 20092 n_req: 8547
+Line: 29000 saved: 20092 n_req: 8547
+Line: 29050 saved: 20346 n_req: 8644
+Line: 29100 saved: 20404 n_req: 8662
+Line: 29150 saved: 20424 n_req: 8687
+Line: 29200 saved: 20431 n_req: 8700
+Line: 29250 saved: 20486 n_req: 8718
+Line: 29300 saved: 20525 n_req: 8741
+Line: 29350 saved: 20548 n_req: 8755
+Line: 29400 saved: 20590 n_req: 8777
+Line: 29450 saved: 20606 n_req: 8806
+Line: 29500 saved: 20630 n_req: 8820
+Line: 29550 saved: 20630 n_req: 8820
+Line: 29600 saved: 20630 n_req: 8820
+Line: 29650 saved: 20738 n_req: 8861
+Line: 29700 saved: 20773 n_req: 8876
+Line: 29750 saved: 20773 n_req: 8876
+Error. Line: 29762 Message3: invalid literal for int() with base 10: '613R'
+Line: 29800 saved: 20837 n_req: 8895
+Line: 29850 saved: 20880 n_req: 8911
+Line: 29900 saved: 20916 n_req: 8923
+Line: 29950 saved: 20974 n_req: 8941
+Error. Line: 29967 Message3: invalid literal for int() with base 10: '335FRONT'
+Line: 30000 saved: 21001 n_req: 8952
+Line: 30050 saved: 21031 n_req: 8975
+Error. Line: 30076 Message3: invalid literal for int() with base 10: '541/2'
+Error. Line: 30081 Message3: invalid literal for int() with base 10: '54.5'
+Line: 30100 saved: 21046 n_req: 8986
+Line: 30150 saved: 21100 n_req: 9008
+Line: 30200 saved: 21102 n_req: 9013
+Line: 30250 saved: 21176 n_req: 9028
+Line: 30300 saved: 21176 n_req: 9028
+Line: 30350 saved: 21232 n_req: 9048
+Line: 30400 saved: 21289 n_req: 9065
+Line: 30450 saved: 21308 n_req: 9072
+Line: 30500 saved: 21367 n_req: 9094
+Line: 30550 saved: 21399 n_req: 9109
+Line: 30600 saved: 21423 n_req: 9132
+Line: 30650 saved: 21423 n_req: 9132
+Line: 30700 saved: 21473 n_req: 9159
+Line: 30750 saved: 21528 n_req: 9184
+Line: 30800 saved: 21559 n_req: 9199
+Error. Line: 30823 Message3: invalid literal for int() with base 10: '2805A'
+Line: 30850 saved: 21562 n_req: 9204
+Line: 30900 saved: 21611 n_req: 9245
+Line: 30950 saved: 21620 n_req: 9272
+Line: 31000 saved: 21632 n_req: 9288
+Line: 31050 saved: 21658 n_req: 9338
+Line: 31100 saved: 21676 n_req: 9367
+Line: 31150 saved: 21703 n_req: 9400
+Line: 31200 saved: 21727 n_req: 9430
+Error. Line: 31215 Message3: invalid literal for int() with base 10: '2922A'
+Line: 31250 saved: 21734 n_req: 9434
+Line: 31300 saved: 21734 n_req: 9434
+Line: 31350 saved: 21797 n_req: 9508
+Line: 31400 saved: 21797 n_req: 9508
+Line: 31450 saved: 21797 n_req: 9508
+Line: 31500 saved: 21797 n_req: 9508
+Line: 31550 saved: 21797 n_req: 9508
+Line: 31600 saved: 21941 n_req: 9612
+Line: 31650 saved: 21968 n_req: 9639
+Error. Line: 31663 Message3: invalid literal for int() with base 10: '470 F'
+Error. Line: 31667 Message3: invalid literal for int() with base 10: '484 F'
+Line: 31700 saved: 21985 n_req: 9674
+Line: 31750 saved: 22003 n_req: 9690
+Line: 31800 saved: 22033 n_req: 9721
+Line: 31850 saved: 22056 n_req: 9740
+Error. Line: 31864 Message2: name 'e' is not defined
+Line: 31900 saved: 22065 n_req: 9784
+Line: 31950 saved: 22091 n_req: 9815
+Line: 32000 saved: 22091 n_req: 9815
+Line: 32050 saved: 22091 n_req: 9815
+Line: 32100 saved: 22152 n_req: 9901
+Line: 32150 saved: 22164 n_req: 9921
+Line: 32200 saved: 22184 n_req: 9963
+Line: 32250 saved: 22199 n_req: 10009
+Line: 32300 saved: 22201 n_req: 10012
+Error. Line: 32314 Message3: invalid literal for int() with base 10: '4334A'
+Line: 32350 saved: 22201 n_req: 10012
+Error. Line: 32384 Message3: invalid literal for int() with base 10: '2548A'
+Line: 32400 saved: 22201 n_req: 10012
+Line: 32450 saved: 22201 n_req: 10012
+Line: 32500 saved: 22325 n_req: 10122
+Line: 32550 saved: 22355 n_req: 10152
+Line: 32600 saved: 22361 n_req: 10187
+Line: 32650 saved: 22369 n_req: 10191
+Line: 32700 saved: 22408 n_req: 10241
+Error. Line: 32741 Message3: invalid literal for int() with base 10: '726A'
+Line: 32750 saved: 22418 n_req: 10269
+Error. Line: 32774 Message3: invalid literal for int() with base 10: '650A'
+Line: 32800 saved: 22442 n_req: 10312
+Error. Line: 32819 Message3: invalid literal for int() with base 10: '54 1/2'
+Line: 32850 saved: 22446 n_req: 10329
+Error. Line: 32850 Message3: invalid literal for int() with base 10: '1455A'
+Line: 32900 saved: 22483 n_req: 10366
+Error. Line: 32942 Message3: invalid literal for int() with base 10: '251A'
+Line: 32950 saved: 22489 n_req: 10382
+Line: 33000 saved: 22519 n_req: 10430
+Line: 33050 saved: 22537 n_req: 10459
+Line: 33100 saved: 22550 n_req: 10499
+Line: 33150 saved: 22566 n_req: 10536
+Line: 33200 saved: 22581 n_req: 10570
+Line: 33250 saved: 22592 n_req: 10606
+Line: 33300 saved: 22603 n_req: 10632
+Line: 33350 saved: 22630 n_req: 10659
+Error. Line: 33358 Message3: invalid literal for int() with base 10: '1451 GARAG'
+Error. Line: 33367 Message2: name 'e' is not defined
+Error. Line: 33369 Message3: invalid literal for int() with base 10: '6033B'
+Line: 33400 saved: 22634 n_req: 10688
+Line: 33450 saved: 22634 n_req: 10688
+Line: 33500 saved: 22634 n_req: 10688
+Line: 33550 saved: 22718 n_req: 10775
+Error. Line: 33573 Message2: name 'e' is not defined
+Error. Line: 33574 Message2: name 'e' is not defined
+Error. Line: 33575 Message2: name 'e' is not defined
+Line: 33600 saved: 22776 n_req: 10848
+Line: 33650 saved: 22796 n_req: 10886
+Line: 33700 saved: 22824 n_req: 10916
+Line: 33750 saved: 22838 n_req: 10937
+Line: 33800 saved: 22881 n_req: 10958
+Error. Line: 33800 Message3: invalid literal for int() with base 10: '88N'
+Line: 33850 saved: 22903 n_req: 10981
+Error. Line: 33861 Message3: invalid literal for int() with base 10: '1177A'
+Line: 33900 saved: 22913 n_req: 11009
+Error. Line: 33943 Message3: invalid literal for int() with base 10: '1111A'
+Line: 33950 saved: 22932 n_req: 11047
+Line: 34000 saved: 22944 n_req: 11077
+Line: 34050 saved: 22973 n_req: 11112
+Line: 34100 saved: 22987 n_req: 11145
+Error. Line: 34100 Message3: invalid literal for int() with base 10: '1831A'
+Line: 34150 saved: 22987 n_req: 11145
+Line: 34200 saved: 22987 n_req: 11145
+Line: 34250 saved: 22987 n_req: 11145
+Error. Line: 34264 Message3: invalid literal for int() with base 10: '3431A'
+Line: 34300 saved: 23089 n_req: 11246
+Line: 34350 saved: 23089 n_req: 11247
+Line: 34400 saved: 23130 n_req: 11277
+Line: 34450 saved: 23162 n_req: 11323
+Line: 34500 saved: 23164 n_req: 11340
+Line: 34550 saved: 23201 n_req: 11371
+Line: 34600 saved: 23209 n_req: 11388
+Line: 34650 saved: 23238 n_req: 11416
+Error. Line: 34695 Message3: invalid literal for int() with base 10: '1157 A'
+Line: 34700 saved: 23271 n_req: 11458
+Error. Line: 34716 Message3: invalid literal for int() with base 10: '1157A'
+Line: 34750 saved: 23288 n_req: 11472
+Line: 34800 saved: 23325 n_req: 11508
+Line: 34850 saved: 23339 n_req: 11538
+Line: 34900 saved: 23355 n_req: 11574
+Error. Line: 34934 Message3: invalid literal for int() with base 10: '723 A'
+Line: 34950 saved: 23372 n_req: 11610
+Error. Line: 34982 Message2: name 'e' is not defined
+Line: 35000 saved: 23389 n_req: 11648
+Line: 35050 saved: 23407 n_req: 11681
+Line: 35100 saved: 23426 n_req: 11713
+Line: 35150 saved: 23449 n_req: 11731
+Error. Line: 35150 Message3: invalid literal for int() with base 10: '1511B'
+Error. Line: 35157 Message3: invalid literal for int() with base 10: '1511A'
+Error. Line: 35167 Message3: invalid literal for int() with base 10: '1511 B'
+Line: 35200 saved: 23467 n_req: 11769
+Line: 35250 saved: 23471 n_req: 11792
+Line: 35300 saved: 23498 n_req: 11821
+Line: 35350 saved: 23525 n_req: 11859
+Line: 35400 saved: 23534 n_req: 11901
+Line: 35450 saved: 23551 n_req: 11934
+Line: 35500 saved: 23567 n_req: 11957
+Line: 35550 saved: 23592 n_req: 11993
+Line: 35600 saved: 23604 n_req: 12029
+Line: 35650 saved: 23609 n_req: 12042
+Line: 35700 saved: 23609 n_req: 12042
+Line: 35750 saved: 23670 n_req: 12104
+Line: 35800 saved: 23682 n_req: 12149
+Line: 35850 saved: 23695 n_req: 12172
+Line: 35900 saved: 23724 n_req: 12208
+Line: 35950 saved: 23740 n_req: 12233
+Line: 36000 saved: 23755 n_req: 12272
+Line: 36050 saved: 23772 n_req: 12309
+Error. Line: 36058 Message3: invalid literal for int() with base 10: '3287A'
+Line: 36100 saved: 23772 n_req: 12309
+Error. Line: 36132 Message3: invalid literal for int() with base 10: '2037A'
+Error. Line: 36135 Message3: invalid literal for int() with base 10: '2037B'
+Line: 36150 saved: 23772 n_req: 12309
+Line: 36200 saved: 23834 n_req: 12396
+Line: 36250 saved: 23854 n_req: 12404
+Line: 36300 saved: 23897 n_req: 12436
+Line: 36350 saved: 23899 n_req: 12457
+Line: 36400 saved: 23919 n_req: 12488
+Error. Line: 36414 Message3: invalid literal for int() with base 10: '1664A'
+saved: 23941
+n_req: 12512
