@@ -5,7 +5,6 @@
 import React from 'react'
 import {connect} from 'react-redux'
 import Tabbar from "./tabbar"
-import * as actions_ from '../../actions/newRequest'
 
 export default (props) => {
     return (
@@ -17,18 +16,14 @@ export default (props) => {
 
 const mapStateToProps = (state) => {
     return {
-        extractsFetching: state.extracts.fetching || false,
-        facilitiesFetching: state.myFacility.fetching
-
+        violationsFetching: state.violations.fetching || false,
     }
 }
 
 const mapDispatchToProps = (dispatch) => {
     return {
-
         reset: () => {
             "use strict";
-            dispatch(actions_.resetJobsList())
         }
     }
 }

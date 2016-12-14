@@ -6,9 +6,9 @@ import React from 'react'
 import {Link} from 'react-router'
 import {IndexLink} from 'react-router'
 import FlatButton from 'material-ui/FlatButton';
-import {decodeUserProfile} from '../../utils/utils'
 
-var token = decodeUserProfile(authorization_token);
+//import {decodeUserProfile} from '../../utils/utils'
+//var token = decodeUserProfile(authorization_token);
 
 
 const styles = {
@@ -36,24 +36,16 @@ const TabsNavigation = (props) => {
         <div className="swtflexbox" style={styles.flexbox}>
             <IndexLink  to='/'> <FlatButton label="Home" secondary={true} style={styles.headline} /> </IndexLink>
 
-            {!props.extractsFetching && !props.facilitiesFetching &&
-                <Link to='/newRequest' onClick={props.reset}><FlatButton label="New Request" secondary={true}
+            {!props.violationsFetching &&
+                <Link to='/analysis' onClick={props.reset}><FlatButton label="Analysis" secondary={true}
                                                style={styles.headline} /></Link>
 
             }
 
-            {props.extractsFetching && props.facilitiesFetching &&
-                <FlatButton label="New Request" secondary={true} style={styles.headline}/>
+            {props.violationsFetching &&
+                <FlatButton label="analysis" disabled secondary={true} style={styles.headline}/>
             }
 
-            {token.digs && (!props.facilitiesFetching) &&
-            <Link to='/facilityManagement'><FlatButton label="Facility Management" secondary={true}
-                                                  style={styles.headline}/></Link>
-            }
-            {token.digs && (props.facilitiesFetching) &&
-            <FlatButton label="Facility Management" secondary={true}
-                                                       style={styles.headline}/>
-            }
         </div>
 
 )};

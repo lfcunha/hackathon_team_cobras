@@ -3,7 +3,7 @@
  */
 
 import React from 'react'
-import Header from '../../components/Header'
+import Header from '../../components/Header/index'
 import "../../assets/css/style.css"
 import "../../assets/css/fonts/roboto.css"
 //local material-icons via cdn. imported won't work in safari
