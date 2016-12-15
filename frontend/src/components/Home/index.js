@@ -20,13 +20,16 @@ const HomePageComponent = (props) => {
 const mapStateToProps = (state) => {
     return {
         violations: state.violations.extracts,
-        var1: "AAAAAA"
+        var1: "BBBB"
     }
 }
 
 const mapDispatchToProps = (dispatch) => {
     return {
-
+        handleMarkerRightclick: (index, e) => {
+            "use strict";
+            console.log(index)
+    }
     }
 }
 

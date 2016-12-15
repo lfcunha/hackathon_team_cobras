@@ -5,7 +5,7 @@
 import React from 'react'
 import analysisView from './analysis'
 import Title from '../PageTitle'
-import { GoogleMap, Marker, SearchBox, GoogleMapLoader } from "react-google-maps";
+
 
 import {connect} from 'react-redux'
 

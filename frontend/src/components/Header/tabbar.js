@@ -6,6 +6,9 @@ import React from 'react'
 import {Link} from 'react-router'
 import {IndexLink} from 'react-router'
 import FlatButton from 'material-ui/FlatButton';
+// Needed for onTouchTap
+import injectTapEventPlugin from 'react-tap-event-plugin';
+injectTapEventPlugin();
 
 //import {decodeUserProfile} from '../../utils/utils'
 //var token = decodeUserProfile(authorization_token);
@@ -37,13 +40,12 @@ const TabsNavigation = (props) => {
             <IndexLink  to='/'> <FlatButton label="Home" secondary={true} style={styles.headline} /> </IndexLink>
 
             {!props.violationsFetching &&
-                <Link to='/analysis' onClick={props.reset}><FlatButton label="Analysis" secondary={true}
+                <Link to='/analysis' disabled onClick={props.reset}><FlatButton label="Analysis" secondary={true}
                                                style={styles.headline} /></Link>
-
             }
 
             {props.violationsFetching &&
-                <FlatButton label="analysis" disabled secondary={true} style={styles.headline}/>
+            <Link to='/analysis'  onClick={props.reset}> <FlatButton label="analysis" disabled={true}  secondary={true} style={styles.headline}/></Link>
             }
 
         </div>

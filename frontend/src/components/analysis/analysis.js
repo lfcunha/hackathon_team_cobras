@@ -3,14 +3,13 @@
  */
 
 import React from 'react';
-import { render, unmountComponentAtNode } from 'react-dom'
 import RaisedButton from 'material-ui/RaisedButton';
 import Paper from 'material-ui/Paper';
 import moment from 'moment'
 import "./style.css"
 import FontIcon from 'material-ui/FontIcon';
 import {red500, yellow500, blue500} from 'material-ui/styles/colors';
-import GoogleMap from 'google-map-react';
+
 
 const analysisView = (props) => {
 
@@ -49,23 +48,10 @@ const analysisView = (props) => {
         }
 
     }
-    const defaultProps = {
-        center: {lat: 40.7128, lng: -74.0059},
-        zoom: 12,
-        greatPlaceCoords: {lat: 59.724465, lng: 30.080121}
-    };
 
     return (
-        <div className="map" style={{height:"500px"}}>
-                <GoogleMap
-                    bootstrapURLKeys={{key: "AIzaSyA6szITQ7ZDGeVtxZMQlJzoBpzRcNrN5jE"}}
-                    center={defaultProps.center}
-                    zoom={defaultProps.zoom}
-                    height={500}
-                >
+        <div >
 
-
-                </GoogleMap>
         </div>
     )
 }

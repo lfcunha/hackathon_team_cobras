@@ -4,16 +4,13 @@
 
 import React from 'react'
 import Title from "../PageTitle"
-import mapView from './mapView'
+import MapView from './mapView'
 
 const Map = (props) => {
     return (
         <div>
             <Title title="Violations map" />
-            <span>{props.var1}</span>
-
-            <mapView {...props} />
-            <span>BBBB</span>
+            <MapView {...props} />
         </div>
     )
 }

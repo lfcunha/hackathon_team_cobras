@@ -17,7 +17,6 @@ const getViolationsRequest = () => {
     "use strict";
     return {
         type: ADD_VIOLATION_REQUEST,
-
     }
 }
 
@@ -26,7 +25,6 @@ const getViolationsSuccess = (extracts) => {
     return {
         type: ADD_VIOLATION_SUCCESS,
         extracts: extracts
-
     }
 }
 
