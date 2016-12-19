@@ -10,7 +10,7 @@ export const API_ENDPOINT = () => {
 
     try{
         if (__LOCAL__) {
-            return "http://localhost:8070"
+            return "http://localhost:5000"
         }
         if (__DEV__) {
             return "http://localhost:8070"

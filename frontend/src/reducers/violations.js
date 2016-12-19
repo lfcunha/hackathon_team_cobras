@@ -50,7 +50,8 @@ const violations = (state=[], action) => {
 
     switch (action.type){
         case 'ADD_VIOLATION_SUCCESS':
-            return [...state, violation(undefined, action)]
+            return Object.assign({}, state, {violations: action.violations, fetchError: true, fetching: false, error: ""})
+            //return [...state, violation(undefined, action)]
             Object.assign({}, state, {fetchError: true, fetching: false, error: "", flash:action.err.statusText})
         case 'ADD_VIOLATION_FAILURE':
             return Object.assign({}, state, {fetchError: true, fetching: false, error: "", flash:action.err.statusText})

@@ -19,7 +19,7 @@ const HomePageComponent = (props) => {
 
 const mapStateToProps = (state) => {
     return {
-        violations: state.violations.extracts,
+        violations: state.violations.violations,
         var1: "BBBB"
     }
 }
@@ -29,6 +29,7 @@ const mapDispatchToProps = (dispatch) => {
         handleMarkerRightclick: (index, e) => {
             "use strict";
             console.log(index)
+            console.log(e)
     }
     }
 }

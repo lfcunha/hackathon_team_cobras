@@ -2,11 +2,57 @@
  * Created by luiscunha on 6/3/16.
  */
 
-import React from 'react'
-import MyGreatPlace from './markers/my_great_place.js';
-import { GoogleMap, Marker, Polyline, GoogleMapLoader } from "react-google-maps";
+import React from 'react';
+import { GoogleMap, Marker, Polyline, GoogleMapLoader } from 'react-google-maps';
 
 const MapView = (props) => {
+    var {violations} = props
+    console.log(violations)
+    var markers_ = {"aug":[], "sept":[], "oct":[], "nov":[]}
+    /*
+     let keys = Object.keys(row[column]);
+     var values = []
+     keys.map((key, idx) => {
+     if (row[column][key]) {
+     values.push(key)
+     }
+    * */
+
+    let months = Object.keys(markers_)
+
+    months.map((m, v)=>{
+
+
+
+    violations[m]
+        .map((v, idx)=>{
+            try {
+                var loc = v.location.split(",")
+                var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
+
+                //console.log(loc)
+                markers_[m].push({
+                    position: {
+                        lat: parseFloat((loc[0])), lng: parseFloat(loc[1].trim()),
+                    },
+                    key: String(idx),
+                    defaultAnimation: 2,
+                    icon: image
+
+                })
+            }
+            catch(err){
+                console.log("oops")
+            }
+        })
+    })
+
+    console.log(markers_)
+    var mkrs
+    var i = 0
+    setInterval(()=>{mkrs=markers_[months[i]]; i++; if (i>4){i=0}; console.log()}, 2000)
+
+
 
     var {var1} = props
     const styles = {
@@ -51,14 +97,14 @@ const MapView = (props) => {
             lat: 40.7128,
             lng: -74.0059,
         },
-        key: `m1`,
+        key: "m1",
         defaultAnimation: 2,
     },{
         position: {
             lat: 40.7128,
             lng: -73.9059,
         },
-        key: `m2`,
+        key: "m2",
         defaultAnimation: 2,
     }]
 
@@ -90,7 +136,9 @@ const MapView = (props) => {
                         defaultZoom={12}
                         defaultCenter={{lat: 40.7727, lng: -73.9855}}
                     >
-                        {markers.map((marker, index) => {
+
+                        {markers_["aug"].map((marker, index) => {
+                            markers.push()
                             return (
                                 <Marker
                                     {...marker}

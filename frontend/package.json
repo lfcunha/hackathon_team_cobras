@@ -64,6 +64,7 @@
     ]
   },
   "dependencies": {
+    "css-loader": "^0.23.1",
     "deep-freeze": "0.0.1",
     "es6-promise": "^3.1.2",
     "expect": "^1.16.0",
@@ -91,6 +92,7 @@
     "require-env": "0.0.4",
     "source-map": "^0.5.3",
     "source-map-loader": "^0.1.5",
+    "style-loader": "^0.13.1",
     "uglify": "^0.1.5",
     "url-loader": "^0.5.7",
     "whatwg-fetch": "^0.11.0"
