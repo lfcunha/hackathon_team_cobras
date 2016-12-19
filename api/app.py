@@ -6,7 +6,9 @@ import csv
 app = Flask(__name__)
 api = Api(app)
 
-with open("resources/data/dob_violations_2016.csv") as fh:
+#dob_violations_2016.csv
+#combined_data since 2013.csv
+with open("resources/data/november_combined.csv") as fh:
     fieldnames = fh.readline().strip().split(",")
     reader = csv.DictReader(fh, fieldnames)
     dlines = []
@@ -44,9 +46,9 @@ class Main(Resource):
         finally:
             #r =  jsonify(response)
             r = make_response(json.dumps(response), 200)
-            r.headers['Access-Control-Allow-Origin'] = "*"
-            r.headers['Access-Control-Allow-Methods'] = 'GET, POST, OPTIONS'
-            r.headers['Access-Control-Allow-Headers'] = "Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With"
+            r.headers['Access-Control-Allow-Origin'] = "localhost:8081"
+            r.headers['Access-Control-Allow-Methods'] = 'GET, PUT, POST, OPTIONS'
+            r.headers['Access-Control-Allow-Headers'] = "Cache-Control, Pragma, Origin, Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With"
             r.headers["Content-type"] = "application/json; charset=utf-8"
             r.headers["Access-Control-Allow-Credentials"] = 'true'
             r.headers["Accept"] = "*/*"
@@ -54,7 +56,7 @@ class Main(Resource):
             #r.headers.extend({'Access-Control-Allow-Origin', '*'})
 
 
-api.add_resource(Main, '/')
+api.add_resource(Main, '/combined')
 
 if __name__ == '__main__':
     app.run()
